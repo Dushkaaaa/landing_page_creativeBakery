@@ -23,7 +23,7 @@
 ## 🚀 Getting Started
 1. Clone the repository:
   <pre lang="bash">
-    bash git clone https://github.com/your-username/project-name.git 
+    git clone https://github.com/your-username/project-name.git 
     cd project-name
   </pre>
 
